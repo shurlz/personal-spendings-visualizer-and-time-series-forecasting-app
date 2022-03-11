@@ -1,4 +1,4 @@
-### gui built using pyqt5 framework
+### built using pyqt5 framework
 ### .....working on updating ReadMe, catching all errors
 ### Uses a Linear Regression Model implemented from scratch to make prediction based of time series
    * using the predict button
