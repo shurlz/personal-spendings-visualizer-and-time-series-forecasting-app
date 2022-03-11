@@ -1,0 +1,7 @@
+. Advisable to have anaconda navigator installed
+. Or pip install!
+  . pyqt5
+  . pandas
+  . numpy
+  . matplotlib
+  . a python interpreter
