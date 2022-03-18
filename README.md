@@ -18,5 +18,5 @@
      ![Screenshot (60)~2](https://user-images.githubusercontent.com/73120937/157810987-e0d9b41e-dee7-407f-bf62-404c6264cbe5.png)
 ###  Date adding should be in the format day-month-year e.g (10-10-20)
    ![Screenshot (59)~2](https://user-images.githubusercontent.com/73120937/157811110-8b12020d-8a7b-4632-8129-4c28a8bdccb1.png)
-### Run the base app interface file and store all files in the same directory.
+### Run the base app interface file to access full functionality and store all files in the same directory.
 ### ps. Be careful while editing/deleting files when running in the same directory as the file
