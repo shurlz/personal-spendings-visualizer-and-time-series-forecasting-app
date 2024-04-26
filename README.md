@@ -1,6 +1,5 @@
 ### built using pyqt5 framework
-### .....working on updating ReadMe, catching all errors
-### Uses a Linear Regression Model implemented from scratch to make prediction based of time series
+### Uses a Linear Regression to make predictions 
    * using the predict button
     ![Screenshot (58)~3](https://user-images.githubusercontent.com/73120937/157810854-0e9d5a51-9c63-4787-963d-247413a0283c.png)
 ### Ability to:
