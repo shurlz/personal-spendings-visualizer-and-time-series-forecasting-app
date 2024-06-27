@@ -1,4 +1,3 @@
-############# Code by doebaba --Github
 ############# Straight Line y = m(x) + c
 ############# Where : y = dependent variable, x = in-dependent variable, m = slope , c = intercept
 ############# Calculating The Mean
